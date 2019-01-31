@@ -49,6 +49,7 @@ blur_face_video.ipynb
 ```
 #### 影片、攝像頭人臉辨識
 比對樣本圖片與影片、攝像頭所拍攝的人是否相同，並在人臉周圍畫上矩形框，人臉下方出現人名；並將每幀圖像縮小0.25倍來加速
+
 ![image](https://github.com/03053020ITE/face_landmark_recognize_webcam_video/blob/master/show/facerec.gif)
 ```
 facerec_video.ipynb
